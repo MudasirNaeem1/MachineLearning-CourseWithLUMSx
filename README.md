@@ -63,6 +63,12 @@ Machine Learning course assignments from **LUMS & TCF collaboration**. This repo
 
 </div>
 
+<div align="center">
+
+![Marks Details](https://github.com/MudasirNaeem1/MachineLearning-CourseWithLUMSx/blob/main/Marks%20Details.png?raw=true)
+
+</div>
+
 ## 🎓 Partnership
 
 > **LUMS** (Lahore University of Management Sciences) × **TCF** (The Citizens Foundation)
